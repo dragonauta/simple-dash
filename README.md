@@ -1,3 +1,5 @@
+Forked from https://github.com/kutyla-philipp/simple-dash
+
 [![Mentioned in Awesome-Selfhosted](https://awesome.re/mentioned-badge.svg)](https://github.com/Kickball/awesome-selfhosted#personal-dashboards)
 # simple-dash
 
