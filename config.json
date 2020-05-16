@@ -4,17 +4,20 @@
 		{
 			"alt" : "Github",
 			"icon" : "fab fa-github",
-			"link" : "https://github.com/kutyla-philipp"
+			"link" : "https://github.com/kutyla-philipp",
+                        "tab" : "y"
 		},
 		{
 			"alt" : "Twitter",
 			"icon" : "fab fa-twitter",
-			"link" : "https://twitter.com/Kukielka_"
+			"link" : "https://twitter.com/Kukielka_",
+                        "tab" : "n"
 		},
 		{
 			"alt" : "Docker Hub",
 			"icon" : "fab fa-docker",
-			"link" : "https://hub.docker.com/u/kukielka/"
+			"link" : "https://hub.docker.com/u/kukielka/",
+                        "tab" : "y"
 		}
 	]
 }
